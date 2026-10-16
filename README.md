@@ -58,9 +58,6 @@ To help businesses innovate, automate, and grow through reliable software engine
 Have an idea, a project, or a challenge to solve? Let's build something great together.
 
 📧 Email: octasyncdigital8@gmail.com
-
-*Replace the contact placeholders before publishing.*
-
 ---
 
 <div align="center">
